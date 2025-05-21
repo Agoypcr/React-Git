@@ -13,7 +13,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Belajar github</h1>
+      <h1>Belajar github bersama  2 sid</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
